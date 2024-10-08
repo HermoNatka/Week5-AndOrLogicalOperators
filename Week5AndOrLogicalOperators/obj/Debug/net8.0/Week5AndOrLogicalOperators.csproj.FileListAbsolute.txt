@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\bin\Debug\net8.0\Week5AndOrLogicalOperators.exe
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\bin\Debug\net8.0\Week5AndOrLogicalOperators.deps.json
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\bin\Debug\net8.0\Week5AndOrLogicalOperators.runtimeconfig.json
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\bin\Debug\net8.0\Week5AndOrLogicalOperators.dll
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\bin\Debug\net8.0\Week5AndOrLogicalOperators.pdb
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\Week5AndOrLogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\Week5AndOrLogicalOperators.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\Week5AndOrLogicalOperators.AssemblyInfo.cs
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\Week5AndOrLogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\Week5AndOrLogicalOperators.dll
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\refint\Week5AndOrLogicalOperators.dll
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\Week5AndOrLogicalOperators.pdb
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\Week5AndOrLogicalOperators.genruntimeconfig.cache
+C:\Users\User\source\repos\Week5AndOrLogicalOperators\Week5AndOrLogicalOperators\obj\Debug\net8.0\ref\Week5AndOrLogicalOperators.dll
